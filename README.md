@@ -3,7 +3,7 @@ A Fortran program from Calculations of the Stellar Structure of so called "Degen
 
 We reconstructed the main program from 1977 of an article from the astrophysical institute at Garching. As source we had a slightly corrupted print (only the header  missed)
 
-*Calculations of the stellar structure of so-called degenerate stars using a new pressure function: *
+*Calculations of the stellar structure of so-called degenerate stars using a new pressure function:*
 
 [The article](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_2227006)
 
