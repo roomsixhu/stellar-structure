@@ -9,7 +9,7 @@ We reconstructed the main program from 1977 of an article from the astrophysical
 
 Shortly after the discovery of these stars the author calculated them with a new pressure function, based on the virial theorem and a new zero energy:
 
-![](zero.png)
+![](Screenshot_2021-04-28-13-32-31-497~2.jpeg)
 
 $$-E=\tfrac {1}{ 2} (2 \pi^2)^{\frac {1}{ 3}} e^2 n^{\frac {1} {3}} = E\_{Fermi} = \langle E_{kin}\rangle$$
 
