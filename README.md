@@ -15,4 +15,6 @@ $$-E=\tfrac {1}{ 2} (2 \pi^2)^{\frac {1}{ 3}} e^2 n^{\frac {1} {3}} = E\_{Fermi}
 
 The program yields a maximal mass and a maximal radius for these stars, m_max at He 12 % Fe 4 % , R_max at He 3 %, Fe 1 % , see results.txt
 
-The word *degeneracy* is due to the fact, that the Fermi-energiy is to big, a power of two to big, so that it describes systems with to much energy, that cannot be stationary. ( Many physical descriptions try to explain this, as the construction of potential holes, but in general this must not be allowed in serious physics.  )
+The word *degeneracy* is due to the fact, that the Fermi-energiy is to big, a power of two to big, so that it describes systems with to much energy, that cannot be stationary. ( Many physical descriptions try to explain this, as the construction of potential holes, but in general this must not be allowed in serious physics.  )  
+
+E.g. you can calculate the frequency of the shock waves of pulsars, the right dimensions of highly compressed astrophysical objects, of neutron stars, double stars, quasars, blue objects and their red shift. And in a corresponding later work one yields that white dwarves are electron-positron stars in theirs innerst. Everything in accordance with the ***virial theorem.***
