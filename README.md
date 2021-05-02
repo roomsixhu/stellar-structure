@@ -1,7 +1,7 @@
 # stellar-structure
 A Fortran program from Calculations of the Stellar Structure of so called "Degenerate" Stars Using an New Pressure Function.
 
-We reconstructed the main program from 1977 of an article from the astrophysical institute at Garching. As source we had a slightly corrupted print (only the header  missed). We named it fortss.f here.
+We reconstructed the main program from 1977 of an article from the astrophysical institute at Garching ( MPI ). As source we had a slightly corrupted print (only the header missing). We named it fortss.f here.
 
 *Calculations of the stellar structure of so-called degenerate stars using a new pressure function:*
 
