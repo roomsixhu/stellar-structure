@@ -25,6 +25,6 @@ The program yields a maximal mass and a maximal radius for these stars, m_max at
 
 The word *degeneracy* is due to the fact, that the Fermi-energiy is to big, a power of two to big, so that it describes systems with to much energy, that cannot be stationary. ( Many physical descriptions try to explain this, as the construction of potential holes, but in general this must not be allowed in serious physics.  )  
 
-E.g. you can calculate the frequency of the shock waves of pulsars, the right dimensions of highly compressed astrophysical objects, of neutron stars, double stars, quasars, blue objects and their red shift. And in a corresponding later work one yields that white dwarves are electron-positron stars in theirs innerst. Everything in accordance with the ***virial theorem.***
+E.g. you can calculate the frequency of the shock waves of pulsars, the right dimensions of highly compressed astrophysical objects, of neutron stars, double stars, quasars, blue objects and their red shift. And in a corresponding later work one yields that white dwarves are electron-positron stars in their innerst. Everything in accordance with the ***virial theorem.***
 
 **Do not** add a constant to the potential energy in general ( , this is solely allowed in Maxwellian Theory. )
