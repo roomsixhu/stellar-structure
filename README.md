@@ -5,7 +5,9 @@ We reconstructed the main program from 1977 of an article from the astrophysical
 
 *Calculations of the stellar structure of so-called degenerate stars using a new pressure function:*
 
-[The article](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_2227006)
+[The article](https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_2227006) (fix  p.12 in (24) 26 n_Fe^2/3 the last summand (instead 26^2/3),
+p. 13 refers to (22) not (24).
+dwarfs for dwarves. (like Tolkien.))
 
 Shortly after the discovery of these stars the author calculated them with a new pressure function, based on the virial theorem and a new zero energy:
 
